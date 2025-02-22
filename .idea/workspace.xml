@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7338ca41-4f32-4024-995d-f97c8c679ec7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -22,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tNcAxU9GlEvJdTiox97ULvjgZX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,13 +35,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.code_const.executor": "Run",
+    "Python.code_data_type.executor": "Run",
     "Python.code_hello.executor": "Run",
     "Python.code_input.executor": "Run",
     "Python.code_print_function (1).executor": "Run",
     "Python.code_print_function.executor": "Run",
     "Python.code_print_hello.executor": "Run",
+    "Python.code_slice.executor": "Run",
+    "Python.code_string.executor": "Run",
     "Python.code_var.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,8 +56,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.code_input">
-    <configuration name="code_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.code_string">
+    <configuration name="code_const" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-1/code_input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-2/code_const.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_print_function (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code_data_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-1/code_print_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-2/code_data_type.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_print_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyCode\PyBasic\chapter-1\code_print_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-2/code_slice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_print_hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,12 +135,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyCode\PyBasic\1\code_print_hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-2/code_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_var" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyBasic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-2/code_var.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,10 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.code_input" />
-        <item itemvalue="Python.code_print_function (1)" />
-        <item itemvalue="Python.code_print_function" />
-        <item itemvalue="Python.code_print_hello" />
+        <item itemvalue="Python.code_string" />
+        <item itemvalue="Python.code_slice" />
+        <item itemvalue="Python.code_data_type" />
+        <item itemvalue="Python.code_var" />
+        <item itemvalue="Python.code_const" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +198,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740195833815</updated>
-      <workItem from="1740195834738" duration="2856000" />
+      <workItem from="1740195834738" duration="4575000" />
+      <workItem from="1740200454152" duration="4842000" />
     </task>
     <servers />
   </component>
@@ -176,8 +208,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyBasic$code_hello.coverage" NAME="code_hello Coverage Results" MODIFIED="1740195980248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1" />
-    <SUITE FILE_PATH="coverage/PyBasic$code_input.coverage" NAME="code_input Coverage Results" MODIFIED="1740198539713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-1" />
-    <SUITE FILE_PATH="coverage/PyBasic$code_var.coverage" NAME="code_print_function Coverage Results" MODIFIED="1740197510572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-1" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_input.coverage" NAME="code_input Coverage Results" MODIFIED="1740198687372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-1" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_var.coverage" NAME="code_var Coverage Results" MODIFIED="1740201782387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-2" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_string.coverage" NAME="code_string Coverage Results" MODIFIED="1740225462006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-2" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_slice.coverage" NAME="code_slice Coverage Results" MODIFIED="1740225342313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-2" />
     <SUITE FILE_PATH="coverage/PyBasic$code_print_function__1_.coverage" NAME="code_print_function (1) Coverage Results" MODIFIED="1740198286918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-1" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_const.coverage" NAME="code_const Coverage Results" MODIFIED="1740201197901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-2" />
+    <SUITE FILE_PATH="coverage/PyBasic$code_data_type.coverage" NAME="code_data_type Coverage Results" MODIFIED="1740202084518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-2" />
   </component>
 </project>
