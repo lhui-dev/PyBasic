@@ -539,3 +539,10 @@ for k, v in dict_value.items():
 - 列表（list）
 - 字典（dict）
 - 集合（set）
+
+
+
+
+# 异常
+
+![异常](picture/exception.png)
